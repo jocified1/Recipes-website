@@ -1,2 +1,2 @@
 # Recipes-website
-a small odin project
+A small website hat displays some nigerian and my favorite dishes.
