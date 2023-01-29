@@ -1,2 +1,2 @@
 # Recipes-website
-A small website hat displays some nigerian and my favorite dishes.
+A small website that displays some nigerian and my favorite dishes.
